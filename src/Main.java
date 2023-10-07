@@ -75,7 +75,7 @@ public class Main {
         String[] s = new String[3];
         s[0] = "It ain't much ";
         s[1] = "but it's ";
-        s[2] = "honest work";
+        s[2] = "honest work!";
 
         for (int ti = (i.length - 1); ti >= 0; ti--) {
             System.out.print(i[ti]);
